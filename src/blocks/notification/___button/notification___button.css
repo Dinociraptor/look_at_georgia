@@ -1,0 +1,24 @@
+.notification___button {
+  align-self: center;
+  width: 288px;
+  height: 53px;
+  margin-top: 26px;
+  margin-left: 28px;
+  padding: 0;
+  background-color: rgba(195, 36, 40, 1);
+  border: 2px;
+  border-color: rgba(195, 36, 40, 1);
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "OpenSans";
+  line-height: 27.24px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.notification___button:hover {
+  background-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-color: rgba(195, 36, 40, 1);
+  color: rgba(195, 36, 40, 1);
+  transition: 0.2s linear;
+}

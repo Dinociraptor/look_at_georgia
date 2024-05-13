@@ -1,0 +1,15 @@
+.tour__slider_arrow-right {
+  background-image: url(/look_at_georgia/src/img/arrow_right_st.png);
+  width: 40px;
+  height: 40px;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0);
+  border: 0;
+  cursor: pointer;
+  margin-top: 37px;
+  margin-left: 18px;
+}
+
+.tour__slider_arrow-right:hover {
+  background-image: url(/look_at_georgia/src/img/arrow_right_hov.png);
+}

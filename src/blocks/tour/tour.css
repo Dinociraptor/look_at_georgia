@@ -1,0 +1,6 @@
+.tour {
+  margin: auto;
+  margin-top: 90px;
+  display: flex;
+  flex-direction: column;
+}

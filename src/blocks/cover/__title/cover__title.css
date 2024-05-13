@@ -1,0 +1,12 @@
+.cover__title {
+  align-self: center;
+  margin: 0;
+  margin-top: 233px;
+  font-family: "Bitter";
+  width: 1137px;
+  font-size: 85px; 
+  font-weight: 700;
+  line-height: 102px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+}

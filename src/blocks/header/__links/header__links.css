@@ -1,0 +1,7 @@
+.header__links {
+  align-self: center;
+  display: flex;
+  justify-content:space-between;
+  gap: 10px;
+  width: 100%;
+}

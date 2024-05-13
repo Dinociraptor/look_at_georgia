@@ -1,0 +1,21 @@
+@font-face {
+	font-family: "Bitter";
+	font-style: normal;
+	font-display: swap;
+	src: 	url('Bitter-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: "OpenSans-Bold";
+	font-style: normal;
+	font-display: swap;
+	src: url("./OpenSans-Bold.woff") format("woff");
+}
+
+@font-face {
+	font-family: "OpenSans";
+	font-style: normal;
+	font-display: swap;
+	src: url("./OpenSans-Regular.woff") format("woff"),
+	url('OpenSans-Regular.ttf') format('truetype');
+}

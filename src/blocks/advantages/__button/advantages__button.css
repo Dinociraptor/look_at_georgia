@@ -1,0 +1,21 @@
+.advantages__button {
+  align-self: center;
+  width: 288px;
+  height: 53px;
+  margin-top: 54px;
+  background-color: rgba(195, 36, 40, 1);
+  border: 2px;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "OpenSans";
+  line-height: 21.79px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.advantages__button:hover {
+  background-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-color: rgba(195, 36, 40, 1);
+  color: rgba(195, 36, 40, 1);
+  transition: 0.2s linear;
+}

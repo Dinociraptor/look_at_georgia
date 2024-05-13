@@ -1,0 +1,6 @@
+.application_rectangle {
+  width: 405px;
+  height: 5px;
+  background-color: rgba(195, 36, 40, 1);
+  align-self: center;
+}

@@ -1,0 +1,10 @@
+.cover {
+  width: 100%;
+  height: 935px;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 60.5%, #FFFFFF 96%), url(/look_at_georgia/src/img/cover.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}

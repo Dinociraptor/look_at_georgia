@@ -1,0 +1,8 @@
+.flag {
+  margin: auto;
+  margin-top: 160px;
+  background-image: url(/look_at_georgia/src/img/flag.png);
+  max-width: 1233px;
+  height: 50px;
+  background-position: center;
+}

@@ -1,0 +1,10 @@
+.reviews__card {
+  width: 370px;
+  border: 1px;
+  border-radius: 9px;
+  border-style: solid;
+  border-color: rgba(195, 36, 40, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

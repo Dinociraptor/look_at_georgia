@@ -1,0 +1,6 @@
+.partner {
+  margin-top: 70px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}

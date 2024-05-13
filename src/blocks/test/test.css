@@ -1,0 +1,7 @@
+.test {
+  height: 240px;
+  margin-top: 119px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

@@ -1,0 +1,6 @@
+.tour__slider {
+  width: 770px;
+  height: 118px;
+  display: flex;
+  align-self: center;
+}
